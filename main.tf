@@ -9,7 +9,7 @@ terraform {
 
 provider "google" {
     #Confiuration options
-    credentials = "forsakened-project-c26317bbdcfa.json"
+    credentials = "forsakened-project-bf8d629dbcb0.json"
     project = var.project
     region = var.region
 }
